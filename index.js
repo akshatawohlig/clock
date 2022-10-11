@@ -52,4 +52,5 @@ document.getElementById("myBtn").onclick=function(){
         // setInterval(getNewyorkTime,1000)
         // getSydneyTime
         // setInterval(getSydneyTime,1000)
+        //something happened
     
