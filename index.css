@@ -1,0 +1,8 @@
+.container{
+    background-color:black;
+    width:500px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 50px;
+    color: greenyellow;
+}
